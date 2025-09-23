@@ -19,6 +19,10 @@ import {
   freelance,
   shopify,
   sheryians,
+  priary,
+  mr,
+  gokul,
+  sk,
   macbookpro,
   falverra,
   tripguide,
@@ -127,29 +131,55 @@ const technologies = [
 
 const experiences = [
   {
-    title: "Freelance Frontend Developer",
-    company_name: "Self-employed",
-    icon: freelance, // Replace with any icon you like
-    iconBg: "#0188E3",
-    date: "Jan 2023 - Present",
+    title: "Jetalvasana Primary School",
+    company_name: "Primary School",
+    icon: priary, // Replace with any icon you like
+    iconBg: "#ffff",
+    date: "2011 - 2019",
     points: [
-      "Built responsive and interactive web apps using React.js, Tailwind CSS, and GSAP.",
-      "Developed and deployed modern landing pages and portfolio websites for clients.",
-      "Integrated APIs and handled form validation, animations, and smooth scroll effects.",
-      "Delivered pixel-perfect UI designs based on Figma and Adobe XD mockups.",
+      "Completed Primary Education (1st to 8th standard).",
+      "Gained essential knowledge in all core subjects.",
+      "Took part in extracurricular and cultural activities.",
+      "Built strong early academic foundation.",
     ],
   },
   {
-    title: "Full Stack Development Trainee",
-    company_name: "Sheryians Coding School",
-    icon: sheryians, // Or institute logo
+    title: "Shree M.R. Sarv Vidhyalay, Jetalvasana",
+    company_name: "Secondary School",
+    icon: mr, // Or institute logo
     iconBg: "#ffff",
-    date: "Aug 2023 - Mar 2025",
+    date: "2019 - 2021",
     points: [
-      "Completed an intensive training program focused on MERN stack development.",
-      "Built multiple full-stack projects, including CRUD apps and authentication systems.",
-      "Worked with tools like Node.js, Express.js, MongoDB, React.js, and Git.",
-      "Gained hands-on experience in deploying apps and following clean code practices.",
+      "Completed Secondary Education (9th & 10th standard).",
+      "Studied core academic subjects with focus on mathematics.",
+      "Engaged in school-level academic competitions.",
+      "Built a foundation for higher secondary studies.",
+    ],
+  },
+  {
+    title: "Gokul Science School, Siddhpur",
+    company_name: "Higher Secondary (PCM)",
+    icon: gokul, // Replace with any icon you like
+    iconBg: "#ffff",
+    date: "2021 - 2023",
+    points: [
+      "Completed Higher Secondary Education (11th & 12th) in PCM stream.",
+      "Strengthened fundamentals in Physics, Chemistry, and Mathematics.",
+      "Participated in science-related academic activities.",
+      "Prepared for competitive and engineering entrance exams.",
+    ],
+  },
+  {
+    title: "Sankalchand Patel College of Engineering, Visnagar",
+    company_name: "B.Tech in Information Technology",
+    icon: sk, // Or institute logo
+    iconBg: "#ffff",
+    date: "2023 - Present",
+    points: [
+      "Pursuing B.Tech in Information Technology.",
+      "Gaining knowledge in Data Structures, Algorithms, and Web Technologies.",
+      "Developing projects in web development and software engineering.",
+      "Actively practicing problem-solving on coding platforms.",
     ],
   },
 ];

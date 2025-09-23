@@ -51,6 +51,14 @@ const sheryians =
   "https://ik.imagekit.io/bqzlidc77g/my%20portfolio/company/sheryians.jpg?updatedAt=1750261292267";
 const freelance =
   "https://ik.imagekit.io/bqzlidc77g/my%20portfolio/company/images.png?updatedAt=1750261804051";
+const priary =
+  "https://ik.imagekit.io/jainishpatel/protfolio/jtvprimary.png?updatedAt=1758642578684";
+const mr =
+  "https://ik.imagekit.io/jainishpatel/protfolio/MR.png?updatedAt=1758642578811";
+const gokul =
+  "https://ik.imagekit.io/jainishpatel/protfolio/gokul.jpg?updatedAt=1758642578555";
+const sk =
+  "https://ik.imagekit.io/jainishpatel/protfolio/sk.jpg?updatedAt=1758642578832";
 
 const macbookpro =
   "https://ik.imagekit.io/bqzlidc77g/my%20portfolio/MacbookPro_TGyn1EY09X.png?updatedAt=1750225807061";
@@ -85,6 +93,10 @@ export {
   shopify,
   freelance,
   sheryians,
+  priary,
+  mr,
+  gokul,
+  sk,
   macbookpro,
   falverra,
   tripguide,

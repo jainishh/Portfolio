@@ -25,7 +25,7 @@ const ExperienceCard = ({ experience }) => (
           loading="lazy"
           width="60%"
           height="60%"
-          className="w-[60%] h-[60%] object-contain"
+          className="w-[70%] h-[70%] object-contain"
         />
       </div>
     }

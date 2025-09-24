@@ -17,30 +17,30 @@ const close =
 
 const css =
   "https://ik.imagekit.io/bqzlidc77g/my%20portfolio/tech/css.png?updatedAt=1749961104488";
-const docker =
-  "https://ik.imagekit.io/bqzlidc77g/my%20portfolio/tech/docker.png?updatedAt=1749961103144";
-const figma =
-  "https://ik.imagekit.io/bqzlidc77g/my%20portfolio/tech/figma.png?updatedAt=1749961103288";
+const python =
+  "https://ik.imagekit.io/jainishpatel/protfolio/python-removebg-preview.png?updatedAt=1758729864021";
+const c =
+  "https://ik.imagekit.io/jainishpatel/protfolio/clan-removebg-preview.png?updatedAt=1758729864483";
 const git =
   "https://ik.imagekit.io/bqzlidc77g/my%20portfolio/tech/git.png?updatedAt=1749961104346";
 const html =
   "https://ik.imagekit.io/bqzlidc77g/my%20portfolio/tech/html.png?updatedAt=1749961104418";
 const javascript =
   "https://ik.imagekit.io/bqzlidc77g/my%20portfolio/tech/javascript.png?updatedAt=1749961104755";
-const mongodb =
-  "https://ik.imagekit.io/bqzlidc77g/my%20portfolio/tech/mongodb.png?updatedAt=1749961104590";
+const github1 =
+  "https://ik.imagekit.io/jainishpatel/protfolio/github-removebg-preview.png?updatedAt=1758729864110";
 const nodejs =
   "https://ik.imagekit.io/bqzlidc77g/my%20portfolio/tech/nodejs.png?updatedAt=1749961104709";
 const reactjs =
   "https://ik.imagekit.io/bqzlidc77g/my%20portfolio/tech/reactjs.png?updatedAt=1749961105057";
-const redux =
-  "https://ik.imagekit.io/bqzlidc77g/my%20portfolio/tech/redux.png?updatedAt=1749961111710";
+const MongoDB =
+  "https://ik.imagekit.io/jainishpatel/protfolio/mongodb.svg?updatedAt=1758728091069";
 const tailwind =
   "https://ik.imagekit.io/bqzlidc77g/my%20portfolio/tech/tailwind.png?updatedAt=1749961111586";
-const typescript =
-  "https://ik.imagekit.io/bqzlidc77g/my%20portfolio/tech/typescript.png?updatedAt=1749961112627";
-const threejs =
-  "https://ik.imagekit.io/bqzlidc77g/my%20portfolio/tech/threejs.svg?updatedAt=1749961112674";
+const java =
+  "https://ik.imagekit.io/jainishpatel/protfolio/java-removebg-preview.png?updatedAt=1758729667228";
+const express =
+  "https://ik.imagekit.io/jainishpatel/protfolio/expressjs.svg?updatedAt=1758728088351";
 
 const meta =
   "https://ik.imagekit.io/bqzlidc77g/my%20portfolio/company/meta.png?updatedAt=1749961112288";
@@ -77,18 +77,18 @@ export {
   menu,
   close,
   css,
-  docker,
-  figma,
+  python,
+  c,
   git,
   html,
   javascript,
-  mongodb,
+  github1,
   nodejs,
   reactjs,
-  redux,
+  MongoDB,
   tailwind,
-  typescript,
-  threejs,
+  java,
+  express,
   meta,
   shopify,
   freelance,

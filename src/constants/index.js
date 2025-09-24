@@ -4,17 +4,17 @@ import {
   creator,
   web,
   javascript,
-  typescript,
+  java,
   html,
   css,
   reactjs,
-  redux,
+  MongoDB,
   tailwind,
   nodejs,
-  mongodb,
+  github1,
   git,
-  figma,
-  docker,
+  c,
+  python,
   meta,
   freelance,
   shopify,
@@ -26,7 +26,7 @@ import {
   macbookpro,
   falverra,
   tripguide,
-  threejs,
+  express,
 } from "../assets";
 
 export const navLinks = [
@@ -71,28 +71,6 @@ const services = [
 
 const technologies = [
   {
-    name: "React JS",
-    icon: reactjs,
-  },
-  {
-    name: "Tailwind CSS",
-    icon: tailwind,
-  },
-  {
-    name: "Three JS",
-    icon: threejs,
-  },
-  {
-    name: "JavaScript",
-    icon: javascript,
-  },
-
-  {
-    name: "Node JS",
-    icon: nodejs,
-  },
-
-  {
     name: "HTML 5",
     icon: html,
   },
@@ -100,15 +78,41 @@ const technologies = [
     name: "CSS 3",
     icon: css,
   },
-
-  {
-    name: "Redux Toolkit",
-    icon: redux,
-  },
-
   {
     name: "MongoDB",
-    icon: mongodb,
+    icon: MongoDB,
+  },
+  {
+    name: "express JS",
+    icon: express,
+  },
+  {
+    name: "React JS",
+    icon: reactjs,
+  },
+  {
+    name: "Node JS",
+    icon: nodejs,
+  },
+  {
+    name: "Tailwind CSS",
+    icon: tailwind,
+  },
+  {
+    name: "JavaScript",
+    icon: javascript,
+  },
+  {
+    name: "java",
+    icon: java,
+  },
+  {
+    name: "c",
+    icon: c,
+  },
+  {
+    name: "python",
+    icon: python,
   },
 
   {
@@ -116,16 +120,8 @@ const technologies = [
     icon: git,
   },
   {
-    name: "figma",
-    icon: figma,
-  },
-  {
-    name: "figma",
-    icon: figma,
-  },
-  {
-    name: "figma",
-    icon: figma,
+    name: "github",
+    icon: github1,
   },
 ];
 

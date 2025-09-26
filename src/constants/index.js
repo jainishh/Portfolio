@@ -23,9 +23,9 @@ import {
   mr,
   gokul,
   sk,
-  macbookpro,
-  falverra,
-  tripguide,
+  letstay,
+  moneydock,
+  talksync,
   express,
 } from "../assets";
 
@@ -209,72 +209,72 @@ const testimonials = [
 
 const projects = [
   {
-    name: "MacBookPro-redesign",
+    name: "LetStay",
     description:
-      "A visually engaging website that showcases a redesigned MacBook Pro with smooth animations and a realistic 3D model, offering users an interactive and immersive way to explore the product’s look and features.",
+      "Rental Booking Web App – Developed a responsive platform for booking short-term rental homes with secure backend APIs for listings, authentication, booking management, and availability checks. Ensured smooth UX with form validations, error handling, and feedback messages. Tech stack: HTML, CSS, JavaScript, Node.js, Express.js, MongoDB, Bootstrap.",
+    tags: [
+      {
+        name: "HTML",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "Node.js",
+        color: "pink-text-gradient",
+      },
+      {
+        name: "MongoDB",
+        color: "green-text-gradient",
+      },
+    ],
+    image: letstay,
+    source_code_link: "https://github.com/jainishh/WanderLust",
+    live_website_link: "https://wanderlust-zpzp.onrender.com/listings",
+  },
+  {
+    name: "MoneyDock",
+    description:
+      "Stock Trading Dashboard – Built a full-stack web application enabling users to buy/sell stocks, manage holdings, orders, and positions. Designed a real-time dynamic dashboard in React.js and implemented secure role-based access control (RBAC) for admins and users. Tech stack: React.js, Node.js, Express.js, MongoDB, Bootstrap.",
     tags: [
       {
         name: "react",
         color: "blue-text-gradient",
       },
       {
-        name: "three.js",
-        color: "green-text-gradient",
-      },
-      {
-        name: "tailwind",
+        name: "Node.js",
         color: "pink-text-gradient",
       },
+      {
+        name: "MongoDB",
+        color: "green-text-gradient",
+      },
     ],
-    image: macbookpro,
-    source_code_link: "https://github.com/gitswastik08/macbook_landingpage",
-    live_website_link: "https://macbookpro3d.netlify.app/",
+    image: moneydock,
+    source_code_link: "https://github.com/jainishh/MoneyDock",
+    live_website_link: "https://github.com/jainishh/MoneyDock",
   },
   {
-    name: "Falverra Redesign",
+    name: "TalkSync",
     description:
-      "A sleek and animated website redesign for Falverra, combining a clean layout with smooth transitions to deliver an engaging, modern browsing experience that highlights the brand’s visual identity and message.",
+      "Real-Time Video Calling Platform – Developed a multi-user video conferencing app enabling live audio/video communication. Integrated WebRTC for peer-to-peer streaming and used Socket.IO with Node.js to manage signaling, join/leave events, and stream sharing. Tech stack: React.js, Node.js, Express.js, Bootstrap, WebRTC, Socket.IO.",
     tags: [
       {
         name: "react",
         color: "blue-text-gradient",
       },
       {
-        name: "tailwind",
-        color: "pink-text-gradient",
-      },
-      {
-        name: "multi-page",
-        color: "green-text-gradient",
-      },
-    ],
-    image: falverra,
-    source_code_link: "https://github.com/gitswastik08/falverra-redesign",
-    live_website_link: "https://falverra-recode.netlify.app/",
-  },
-  {
-    name: "Trip Guide",
-    description:
-      "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
-    tags: [
-      {
-        name: "nextjs",
-        color: "blue-text-gradient",
-      },
-      {
-        name: "supabase",
+        name: "WebRTC",
         color: "green-text-gradient",
       },
       {
-        name: "css",
+        name: "Socket.IO",
         color: "pink-text-gradient",
       },
     ],
-    image: tripguide,
+    image: talksync,
     // github link ⬇️
-    source_code_link: "https://github.com/",
+    source_code_link: "https://github.com/jainishh/TalkSync",
     // project link ⬇️
-    live_website_link: "https://app.netlify.com/teams/gitswastik08/projects",
+    live_website_link: "https://github.com/jainishh/TalkSync",
   },
 ];
 

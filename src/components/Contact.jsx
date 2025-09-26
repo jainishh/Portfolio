@@ -6,9 +6,9 @@ import { slideIn } from "../utils/motion";
 import { SectionWrapper } from "../hoc";
 import emailjs from "@emailjs/browser";
 
-// template_49jw5yq
-// service_9gvq101
-// 3lDtCP31mFt_52s7F
+//template_u8r2btw
+//service_v492bbe
+//3E2qlzGm9jCjhtMFn
 
 const Contact = () => {
   const formRef = useRef();
@@ -26,14 +26,14 @@ const Contact = () => {
     e.preventDefault();
     setloading(true);
 
-    // template_49jw5yq
-    // service_9gvq101
-    // 3lDtCP31mFt_52s7F
+    //template_u8r2btw
+    //service_v492bbe
+    //3E2qlzGm9jCjhtMFn
 
     emailjs
       .send(
-        "service_9gvq101",
-        "template_49jw5yq",
+        "service_v492bbe",
+        "template_u8r2btw",
         {
           from_name: form.name,
 
@@ -41,7 +41,7 @@ const Contact = () => {
 
           message: form.message,
         },
-        "3lDtCP31mFt_52s7F"
+        "3E2qlzGm9jCjhtMFn"
       )
       .then(
         () => {

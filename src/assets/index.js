@@ -60,12 +60,12 @@ const gokul =
 const sk =
   "https://ik.imagekit.io/jainishpatel/protfolio/sk.jpg?updatedAt=1758642578832";
 
-const macbookpro =
-  "https://ik.imagekit.io/bqzlidc77g/my%20portfolio/MacbookPro_TGyn1EY09X.png?updatedAt=1750225807061";
-const falverra =
-  "https://ik.imagekit.io/bqzlidc77g/my%20portfolio/Screenshot%202025-06-21%20015159.png?updatedAt=1750451051537";
-const tripguide =
-  "https://ik.imagekit.io/bqzlidc77g/my%20portfolio/tripguide.png?updatedAt=1749961172334";
+const letstay =
+  "https://ik.imagekit.io/jainishpatel/protfolio/letstay.png?updatedAt=1758901106608";
+const moneydock =
+  "https://ik.imagekit.io/jainishpatel/protfolio/zerodha.png?updatedAt=1758901105690";
+const talksync =
+  "https://ik.imagekit.io/jainishpatel/protfolio/Talkasynk.jpg?updatedAt=1758901106292";
 
 export {
   logo,
@@ -97,7 +97,7 @@ export {
   mr,
   gokul,
   sk,
-  macbookpro,
-  falverra,
-  tripguide,
+  letstay,
+  moneydock,
+  talksync,
 };

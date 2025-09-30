@@ -6,8 +6,8 @@ import { slideIn } from "../utils/motion";
 import { SectionWrapper } from "../hoc";
 import emailjs from "@emailjs/browser";
 
-//template_u8r2btw
-//service_v492bbe
+//template_48zc1ks
+//service_fiyu1nk
 //3E2qlzGm9jCjhtMFn
 
 const Contact = () => {
@@ -26,19 +26,17 @@ const Contact = () => {
     e.preventDefault();
     setloading(true);
 
-    //template_u8r2btw
-    //service_v492bbe
+    //template_48zc1ks
+    //service_fiyu1nk
     //3E2qlzGm9jCjhtMFn
 
     emailjs
       .send(
-        "service_v492bbe",
-        "template_u8r2btw",
+        "service_fiyu1nk",
+        "template_48zc1ks",
         {
           from_name: form.name,
-
           from_email: form.email,
-
           message: form.message,
         },
         "3E2qlzGm9jCjhtMFn"
